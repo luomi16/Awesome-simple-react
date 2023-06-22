@@ -1,1 +1,17 @@
-<h1>Pizza Menu Project - A very simple base react project</h1>
+## Pizza Menu Project - A very simple base react project
+
+### The key knowledge points I use
+
+- Props
+- Rendering Lists: map method
+- Conditional Rendering with ternaries / multiple returns
+- Destructuring
+- React Fragments
+
+### Project Structure
+
+<img src="../images/pizza-menu-summary.png">
+
+### Preview image
+
+<img src="../images/pizza-menu.png">
