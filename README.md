@@ -19,3 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <img src="images/pizza-menu.png">
 
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
+
+#### A small challenge: PROFILE CARD
+
+[ANSWER CODE OF PROFILE CARD](https://codesandbox.io/s/react-challenge-profile-j2sszk?file=/src/index.js)
+
+<img src="images/profile-card.png">
