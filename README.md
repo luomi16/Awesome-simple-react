@@ -34,4 +34,6 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 [ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/date-counter-rtyvjs?file=/src/App.js)
 
+<img src="images/Date-Counter.png">
+
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
