@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Type `new react` in your bowser search input, you can create easily a new react project in **codesandbox**
 
-[ANSWER CODE OF PROFILE CARD](https://codesandbox.io/s/react-challenge-profile-j2sszk?file=/src/index.js)
+[ANSWER CODE OF PROFILE CARD](https://codesandbox.io/s/react-challenge-profile-j2sszk)
 
 <img src="images/profile-card.png">
 
@@ -32,7 +32,7 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 #### A small challenge: Date Counter(v1)
 
-[ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/date-counter-rtyvjs?file=/src/App.js)
+[ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/date-counter-rtyvjs)
 
 <img src="images/Date-Counter.png">
 
@@ -41,5 +41,13 @@ Type `new react` in your bowser search input, you can create easily a new react 
 #### A small challenge: Flashcard
 
 [ANSWER CODE OF FLASHCARD](https://codesandbox.io/s/flashcard-92jqg7)
+
+<img src="images/flashcard.png">
+
+#### A small challenge: Date Counter(v2) - Use controlled element
+
+[ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/flashcard-92jqg7)
+
+<img src="images/Date-Counter2.png">
 
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
