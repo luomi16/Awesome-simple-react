@@ -14,11 +14,11 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### First project Preview image: PIZZA MENU
+## First project Preview image: PIZZA MENU
 
 <img src="images/pizza-menu.png">
 
-#### A small challenge: PROFILE CARD
+### A small challenge: PROFILE CARD
 
 Type `new react` in your bowser search input, you can create easily a new react project in **codesandbox**
 
@@ -26,25 +26,25 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 <img src="images/profile-card.png">
 
-### Second project Preview image: Steps
+## Second project Preview image: Steps
 
 <img src="images/Steps.png">
 
-#### A small challenge: Date Counter(v1)
+### A small challenge: Date Counter(v1)
 
 [ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/date-counter-rtyvjs)
 
 <img src="images/Date-Counter.png">
 
-### Third project Preview image: Travel List
+## Third project Preview image: Travel List
 
-#### A small challenge: Flashcard
+### A small challenge: Flashcard
 
 [ANSWER CODE OF FLASHCARD](https://codesandbox.io/s/flashcard-92jqg7)
 
 <img src="images/flashcard.png">
 
-#### A small challenge: Date Counter(v2) - Use controlled element
+### A small challenge: Date Counter(v2) - Use controlled element to update
 
 [ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/flashcard-92jqg7)
 
