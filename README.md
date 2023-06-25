@@ -36,4 +36,10 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 <img src="images/Date-Counter.png">
 
+### Third project Preview image: Travel List
+
+#### A small challenge: Flashcard
+
+[ANSWER CODE OF FLASHCARD](https://codesandbox.io/s/flashcard-92jqg7)
+
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
