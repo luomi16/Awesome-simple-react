@@ -1,6 +1,10 @@
 ## Pizza Menu Project - A very simple base react project
 
-### The key knowledge points I use
+### Preview image
+
+<img src="../images/pizza-menu.png">
+
+## The key knowledge points I use
 
 - Props
 - Rendering Lists: map method
@@ -11,7 +15,3 @@
 ### Project Structure
 
 <img src="../images/pizza-menu-summary.png">
-
-### Preview image
-
-<img src="../images/pizza-menu.png">
