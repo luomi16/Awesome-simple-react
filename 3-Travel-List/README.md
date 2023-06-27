@@ -2,7 +2,7 @@
 
 ### Preview image
 
-Waiting for update
+<img src="../images/travellist.png">
 
 ## The key knowledge points I use
 

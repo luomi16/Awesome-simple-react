@@ -38,6 +38,8 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 ## Third project Preview image: Travel List
 
+<img src="images/travellist.png">
+
 ### A small challenge: Flashcard
 
 [ANSWER CODE OF FLASHCARD](https://codesandbox.io/s/flashcard-92jqg7)
@@ -49,5 +51,11 @@ Type `new react` in your bowser search input, you can create easily a new react 
 [ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/flashcard-92jqg7)
 
 <img src="images/Date-Counter2.png">
+
+### A small challenge: Accordion Component
+
+[ANSWER CODE OF ACCORDION COMPONENT](https://codesandbox.io/s/accordion-jcrwkm)
+
+<img src="images/ACCORDION.png">
 
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
