@@ -54,8 +54,14 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 ### A small challenge: Accordion Component
 
-[ANSWER CODE OF ACCORDION COMPONENT](https://codesandbox.io/s/accordion-jcrwkm)
+[ANSWER CODE OF ACCORDION COMPONENT v1](https://codesandbox.io/s/accordion-jcrwkm)
 
 <img src="images/ACCORDION.png">
+
+### A small challenge: Accordion Component
+
+[ANSWER CODE OF ACCORDION COMPONENT v2](https://codesandbox.io/s/accordion-forked-hsgkmv)
+
+<img src="images/ACCORDION2.png">
 
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)

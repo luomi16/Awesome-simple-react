@@ -14,11 +14,11 @@ export default function App() {
       <StepMessage step={1}>
         <p>Pass in content</p>
       </StepMessage>
-      <p>✌</p>
+      <p align="center">✌</p>
       <StepMessage step={2}>
         <p>Read children Prop</p>
       </StepMessage>
-      <p>🆒</p>
+      <p align="center">🆒</p>
     </div>
   );
 }
