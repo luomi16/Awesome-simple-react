@@ -12,6 +12,7 @@ There is a vanilla.html file in public folder as reference!
 - State to update the UI
 - Building forms the "React way"
 - Controlled elements
+- The children prop
 
 What is state?
 
@@ -19,3 +20,6 @@ How to use state in practice?
 useState
 useReducer
 Context API
+
+The children prop
+<img src="../images/children.png">

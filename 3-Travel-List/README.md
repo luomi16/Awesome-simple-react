@@ -14,9 +14,9 @@ lift up state: move the code of defining state to the closest common parent comp
 
 ### Chilf-to-Parent Communication
 
-<img src="public/1.png">
-<img src="public/2.png">
-<img src="public/3.png">
+<img src="../images/1.png">
+<img src="../images/2.png">
+<img src="../images/3.png">
 
 The solution is to pass the set coupons function down as a prop to the components who need to update the state
 parent ---setCoupons()---> child
