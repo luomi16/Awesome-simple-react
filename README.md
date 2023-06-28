@@ -14,6 +14,15 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+# PART 1 REACT FUNDAMENTALS [4 PROJECTS]
+
+KEYPOINTS:
+working with components
+props
+JSX
+state management
+events
+
 ## First project Preview image: PIZZA MENU
 
 <img src="images/pizza-menu.png">
@@ -63,5 +72,28 @@ Type `new react` in your bowser search input, you can create easily a new react 
 [ANSWER CODE OF ACCORDION COMPONENT v2](https://codesandbox.io/s/accordion-forked-hsgkmv)
 
 <img src="images/ACCORDION2.png">
+
+### A small challenge: Tip Calculator
+
+[ANSWER CODE OF TIP CALCULATOR](https://codesandbox.io/s/tipcalculator-fgynxn)
+
+<img src="images/tipcalculator.png">
+
+## Fourth project: **SKIP (in section 8)**
+
+# PART 2 INTERMEDIATE REACT [2 PROJECT]
+
+KEYPOINTS:
+How to think about components
+Composition
+Reusability
+How to split component
+Building layouts
+
+## Fifth project Preview image:
+
+-
+
+-
 
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
