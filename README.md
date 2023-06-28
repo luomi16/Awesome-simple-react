@@ -17,11 +17,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # PART 1 REACT FUNDAMENTALS [4 PROJECTS]
 
 KEYPOINTS:
-working with components
-props
-JSX
-state management
-events
+
+- working with components
+- props
+- JSX
+- state management
+- events
 
 ## First project Preview image: PIZZA MENU
 
@@ -84,16 +85,17 @@ Type `new react` in your bowser search input, you can create easily a new react 
 # PART 2 INTERMEDIATE REACT [2 PROJECT]
 
 KEYPOINTS:
-How to think about components
-Composition
-Reusability
-How to split component
-Building layouts
+
+- How to think about components
+- Composition
+- Reusability
+- How to split component
+- Building layouts
 
 ## Fifth project Preview image:
 
--
+.
 
--
+.
 
 They are from [Jonas's course at the udemy](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture)
