@@ -94,6 +94,12 @@ KEYPOINTS:
 
 ## Fifth project Preview image:
 
+### A small challenge: Text Expander
+
+[ANSWER CODE OF ACCORDION COMPONENT v2](https://codesandbox.io/s/text-expander)
+
+<img src="images/Text-Expander.png">
+
 .
 
 .
