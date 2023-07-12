@@ -34,17 +34,17 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 [ANSWER CODE OF PROFILE CARD](https://codesandbox.io/s/react-challenge-profile-j2sszk)
 
-<img src="images/profile-card.png">
+<img src="images/profile-card.png" height="400">
 
 ## Second project Preview image: Steps
 
-<img src="images/Steps.png">
+<img src="images/Steps.png" height="250">
 
 ### A small challenge: Date Counter(v1)
 
 [ANSWER CODE OF DATE COUNTER](https://codesandbox.io/s/date-counter-rtyvjs)
 
-<img src="images/Date-Counter.png">
+<img src="images/Date-Counter.png"  height="150">
 
 ## Third project Preview image: Travel List
 
@@ -66,13 +66,13 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 [ANSWER CODE OF ACCORDION COMPONENT v1](https://codesandbox.io/s/accordion-jcrwkm)
 
-<img src="images/ACCORDION.png">
+<img src="images/ACCORDION.png" height="250">
 
 ### A small challenge: Accordion Component
 
 [ANSWER CODE OF ACCORDION COMPONENT v2](https://codesandbox.io/s/accordion-forked-hsgkmv)
 
-<img src="images/ACCORDION2.png">
+<img src="images/ACCORDION2.png" height="300">
 
 ### A small challenge: Tip Calculator
 
@@ -93,6 +93,10 @@ KEYPOINTS:
 - Building layouts
 
 ## Fifth project Preview image:
+
+<img src="images/usePopcorn1.png" height="500">
+
+<img src="images/usePopcorn2.png" height="500">
 
 ### A small challenge: Text Expander
 
