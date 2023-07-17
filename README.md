@@ -14,6 +14,8 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+---
+
 # PART 1 REACT FUNDAMENTALS [4 PROJECTS]
 
 KEYPOINTS:
@@ -82,6 +84,8 @@ Type `new react` in your bowser search input, you can create easily a new react 
 
 ## Fourth project: **SKIP (in section 8)**
 
+---
+
 # PART 2 INTERMEDIATE REACT [2 PROJECT]
 
 KEYPOINTS:
@@ -109,6 +113,18 @@ KEYPOINTS:
 [ANSWER CODE OF useGeolocation](https://codesandbox.io/s/usegeolocation-xlxqkt?file=/src/App.js)
 
 <img src="images/useGeolocation.png" height="150">
+
+---
+
+# PART 3 ADVANCED REACT + REDUX [4 PROJECT]
+
+KEYPOINTS:
+
+- Another powerful way of managing state
+
+- Important to undersatnd Redux
+
+- Half the section in essentially another practice project
 
 .
 
