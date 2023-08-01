@@ -96,7 +96,7 @@ KEYPOINTS:
 - How to split component
 - Building layouts
 
-## Fifth project Preview image: UsePopcorn
+## First project Preview image: UsePopcorn
 
 <img src="images/usePopcorn1.png" height="500">
 
@@ -125,6 +125,27 @@ KEYPOINTS:
 - Important to undersatnd Redux
 
 - Half the section in essentially another practice project
+
+## First project Preview image: The React Quiz
+
+<img src="images/reactquiz.png" height="400">
+
+Extensible function:
+
+1 allow user to select certain number of questions
+
+filter difficulty of questions
+
+2 upload the highest scores of the quiz to fake api
+
+3 store all answer that user provide to array, so user can review their answer
+
+## Second project Preview image: WorldWise
+
+React Route
+SPA
+CSS Modules
+Vite
 
 .
 
